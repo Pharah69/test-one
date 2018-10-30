@@ -1,2 +1,2 @@
-# test-one
-course 473 repo 1
+# test-one project
+### course
